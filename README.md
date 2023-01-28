@@ -1,7 +1,8 @@
 # Setup
 
 1. Install Neovim
-
+[install plug for neovim](https://github.com/junegunn/vim-plug#neovim)
+install node for neovim -- brew install node
 1. Symlink vim and CoC config from this repo:
 
 ```
